@@ -1,0 +1,201 @@
+;;;;;;;;;;;;;
+METRÔ DE SÃO PAULO;;;;;;;;;;;;;
+INFORMAÇÕES SOBRE A DEMANDA - 2026;;;;;;;;;;;;;
+Demanda de Passageiros por Estação - Média Dias Úteis (em milhares);;;;;;;;;;;;;
+;;;;;;;;;;;;;
+LINHA 1-AZUL;;;;;;;;;;;;;
+Estação;Jan;Fev;Mar;Abr;Mai;Jun;Jul;Ago;Set;Out;Nov;Dez;Média
+Jabaquara; 63 ; 67 ;;;;;;;;;;; 65 
+Conceição ; 26 ; 30 ;;;;;;;;;;; 28 
+São Judas ; 14 ; 15 ;;;;;;;;;;; 15 
+Saúde-Ultrafarma; 23 ; 26 ;;;;;;;;;;; 25 
+Praça da Árvore ; 13 ; 15 ;;;;;;;;;;; 14 
+Santa Cruz (4); 84 ; 93 ;;;;;;;;;;; 89 
+Vila Mariana ; 14 ; 20 ;;;;;;;;;;; 17 
+Ana Rosa (1); 70 ; 81 ;;;;;;;;;;; 76 
+Paraíso (1); 87 ; 101 ;;;;;;;;;;; 94 
+Vergueiro ; 23 ; 27 ;;;;;;;;;;; 25 
+São Joaquim ; 21 ; 30 ;;;;;;;;;;; 26 
+Japão-Liberdade ; 21 ; 23 ;;;;;;;;;;; 22 
+Sé (2); 153 ; 170 ;;;;;;;;;;; 162 
+São Bento; 49 ; 50 ;;;;;;;;;;; 50 
+Luz (3); 109 ; 127 ;;;;;;;;;;; 118 
+Tiradentes ; 11 ; 14 ;;;;;;;;;;; 13 
+Armênia ; 17 ; 19 ;;;;;;;;;;; 18 
+Portuguesa-Tietê ; 40 ; 42 ;;;;;;;;;;; 41 
+Carandiru ; 10 ; 11 ;;;;;;;;;;; 11 
+Santana ; 43 ; 49 ;;;;;;;;;;; 46 
+Jardim São Paulo-Ayrton Senna; 10 ; 12 ;;;;;;;;;;; 11 
+Parada Inglesa ; 11 ; 13 ;;;;;;;;;;; 12 
+Tucuruvi ; 51 ; 57 ;;;;;;;;;;; 54 
+Total; 962 ; 1.091 ;;;;;;;;;;; 1.027 
+(1) Corresponde à soma dos usuários que embarcaram na Linha 1-Azul com as transferências da Linha 2-Verde;;;;;;;;;;;;;
+(2) Corresponde à soma dos usuários que embarcaram na Linha 1-Azul com as transferências da Linha 3-Vermelha;;;;;;;;;;;;;
+(3) Corresponde à soma dos usuários que embarcaram na Linha 1-Azul com as transferências das linhas 4-Amarela, 10-Turquesa e 11-Coral;;;;;;;;;;;;;
+(4) Corresponde à soma dos usuários que embarcaram na Linha 1-Azul com as transferências da Linha 5-Lilás;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+LINHA 2-VERDE;;;;;;;;;;;;;
+Estação;Jan;Fev;Mar;Abr;Mai;Jun;Jul;Ago;Set;Out;Nov;Dez;Média
+Vila Prudente (1); 70 ; 80 ;;;;;;;;;;; 75 
+Tamanduateí (3); 71 ; 79 ;;;;;;;;;;; 75 
+Sacomã; 36 ; 42 ;;;;;;;;;;; 39 
+Alto do Ipiranga ; 16 ; 19 ;;;;;;;;;;; 18 
+Santos-Imigrantes ; 14 ; 15 ;;;;;;;;;;; 15 
+Chácara Klabin (5); 77 ; 87 ;;;;;;;;;;; 82 
+Ana Rosa (2); 53 ; 60 ;;;;;;;;;;; 57 
+Paraíso (2); 54 ; 62 ;;;;;;;;;;; 58 
+Brigadeiro ; 47 ; 51 ;;;;;;;;;;; 49 
+Trianon-Masp ; 43 ; 49 ;;;;;;;;;;; 46 
+Consolação (4); 87 ; 100 ;;;;;;;;;;; 94 
+Clínicas ; 20 ; 22 ;;;;;;;;;;; 21 
+Santuário N.S. de Fátima-Sumaré ; 9 ; 10 ;;;;;;;;;;; 10 
+Vila Madalena; 19 ; 23 ;;;;;;;;;;; 21 
+Total; 615 ; 701 ;;;;;;;;;;; 658 
+(1) Corresponde à soma dos usuários que embarcaram na Linha 2-Verde com as transferências da Linha 15-Prata;;;;;;;;;;;;;
+(2) Corresponde à soma dos usuários que embarcaram na Linha 2-Verde com as transferências da Linha 1-Azul;;;;;;;;;;;;;
+(3) Corresponde à soma dos usuários que embarcaram na Linha 2-Verde com as transferências da Linha 10-Turquesa;;;;;;;;;;;;;
+(4) Corresponde à soma dos usuários que embarcaram na Linha 2-Verde com as transferências da Linha 4-Amarela;;;;;;;;;;;;;
+(5) Corresponde à soma dos usuários que embarcaram na Linha 2-Verde com as transferências da Linha 5-Lilás;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+LINHA 3-VERMELHA;;;;;;;;;;;;;
+Estação;Jan;Fev;Mar;Abr;Mai;Jun;Jul;Ago;Set;Out;Nov;Dez;Média
+Corinthians-Itaquera (2); 62 ; 66 ;;;;;;;;;;; 64 
+Artur Alvim; 47 ; 53 ;;;;;;;;;;; 50 
+Patriarca-Vila Ré; 20 ; 22 ;;;;;;;;;;; 21 
+Guilhermina-Esperança ; 18 ; 22 ;;;;;;;;;;; 20 
+Vila Matilde ; 24 ; 27 ;;;;;;;;;;; 26 
+Penha-Lojas Besni; 24 ; 28 ;;;;;;;;;;; 26 
+Carrão-Assaí Atacadista ; 37 ; 44 ;;;;;;;;;;; 41 
+Tatuapé (2); 67 ; 72 ;;;;;;;;;;; 70 
+Belém ; 34 ; 37 ;;;;;;;;;;; 36 
+Bresser-Moóca ; 24 ; 28 ;;;;;;;;;;; 26 
+Brás (2); 65 ; 69 ;;;;;;;;;;; 67 
+Pedro II ; 14 ; 15 ;;;;;;;;;;; 15 
+Sé (1); 179 ; 202 ;;;;;;;;;;; 191 
+Anhangabaú; 46 ; 50 ;;;;;;;;;;; 48 
+República (3); 110 ; 121 ;;;;;;;;;;; 116 
+Santa Cecília ; 20 ; 23 ;;;;;;;;;;; 22 
+Marechal Deodoro ; 22 ; 25 ;;;;;;;;;;; 24 
+Palmeiras-Barra Funda (2); 130 ; 146 ;;;;;;;;;;; 138 
+Total; 943 ; 1.050 ;;;;;;;;;;; 997 
+(1) Corresponde à soma dos usuários que embarcaram na Linha 3-Vermelha com as transferências da Linha 1-Azul;;;;;;;;;;;;;
+(2) Corresponde à soma dos usuários que embarcaram na Linha 3-Vermelha com as transferências das linhas 7-Rubi, 8-Diamante, 10-Turquesa, 11-Coral e 12-Safira;;;;;;;;;;;;;
+(3) Corresponde à soma dos usuários que embarcaram na Linha 3-Vermelha com as transferências da Linha 4-Amarela;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+LINHA 15-PRATA;;;;;;;;;;;;;
+Estação;Jan;Fev;Mar;Abr;Mai;Jun;Jul;Ago;Set;Out;Nov;Dez;Média
+Vila Prudente (1); 56 ; 67 ;;;;;;;;;;; 62 
+Oratório; 7 ; 8 ;;;;;;;;;;; 8 
+São Lucas; 5 ; 5 ;;;;;;;;;;; 5 
+Camilo Haddad; 4 ; 4 ;;;;;;;;;;; 4 
+Vila Tolstói; 5 ; 6 ;;;;;;;;;;; 6 
+Vila União; 5 ; 6 ;;;;;;;;;;; 6 
+Jardim Planalto; 4 ; 5 ;;;;;;;;;;; 5 
+Sapopemba; 9 ; 10 ;;;;;;;;;;; 10 
+Fazenda da Juta; 4 ; 5 ;;;;;;;;;;; 5 
+São Mateus; 16 ; 17 ;;;;;;;;;;; 17 
+Jardim Colonial; 12 ; 14 ;;;;;;;;;;; 13 
+Total; 126 ; 146 ;;;;;;;;;;; 136 
+(1) Corresponde à soma dos usuários que embarcaram na Linha 15-Prata com as transferências da Linha 2-Verde;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+Fonte: Diretoria de Operações/Dep. Apoio à Gestão/Coord. Estudos Estatísticos e Design Estratégico - 16/03/2026;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
